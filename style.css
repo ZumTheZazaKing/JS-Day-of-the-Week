@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(18, 7, 58);
+}
+
+#container{
+    text-align: center;
+    border: 2px solid black;
+    background-color: black;
+    padding: 20px;
+    margin-top: 100px;
+}
+
+#header{
+    font-size: 56px;
+    background-color: burlywood;
+    color: black;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 20px;
+}
+
+#text{
+    font-size: 36px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+#day{
+    font-size: 100px;
+    margin: 0;
+    font-family: Comic Sans MS;
+    background-color: bisque;
+    padding: 20px;
+}
+
+#desc{
+    font-size: 24px;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightslategray;
+    padding: 20px;
+    color: white;
+}
